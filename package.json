@@ -1,0 +1,23 @@
+{
+  "name": "node-ember-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanmagoon/node-ember-test.git"
+  },
+  "author": "Ryan Magoon <mr.magoon5@gmail.com> (http://www.ryanmagoon.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryanmagoon/node-ember-test/issues"
+  },
+  "homepage": "https://github.com/ryanmagoon/node-ember-test#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
